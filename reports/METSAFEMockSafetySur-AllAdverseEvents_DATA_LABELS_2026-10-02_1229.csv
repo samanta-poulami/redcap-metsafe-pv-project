@@ -1,0 +1,16 @@
+"Participant ID","Repeat Instrument","Repeat Instance","Adverse event term (verbatim, as reported)","MedDRA Preferred Term (PT) - manual coding","Event onset date",Severity,"Is the event serious?","Expectedness (versus reference safety information)","Action taken with study drug",Outcome,"Causality assessment (WHO-UMC)"
+1,"Adverse Event",1,"Nausea and loose stools",Nausea,2026-05-12,Mild,No,"Listed (expected)","Dose not changed","Recovered / resolved","Probable / Likely"
+2,"Adverse Event",1,"Metallic taste in mouth",Dysgeusia,2026-05-19,Mild,No,"Listed (expected)","Dose not changed","Not recovered / not resolved","Probable / Likely"
+2,"Adverse Event",2,"Loose motions",Diarrhoea,2026-05-15,Mild,No,"Listed (expected)","Dose not changed","Recovered / resolved","Probable / Likely"
+4,"Adverse Event",1,"Severe watery diarrhoea",Diarrhoea,2026-05-17,Severe,No,"Listed (expected)","Drug interrupted","Recovered / resolved","Probable / Likely"
+4,"Adverse Event",2,"Upper abdominal discomfort","Abdominal discomfort",2026-05-21,Mild,No,"Listed (expected)","Dose not changed","Recovered / resolved",Possible
+5,"Adverse Event",1,"Reduced appetite","Decreased appetite",2026-05-23,Mild,No,"Listed (expected)","Dose not changed","Recovering / resolving",Possible
+5,"Adverse Event",2,"Worsening kidney function (eGFR decline)","Glomerular filtration rate decreased",2026-08-05,Moderate,Yes,Unknown,"Dose reduced","Not recovered / not resolved",Possible
+7,"Adverse Event",1,"Raised liver enzymes (ALT 138 U/L)","Alanine aminotransferase increased",2026-08-11,Moderate,No,"Listed (expected)","Dose reduced","Not recovered / not resolved",Possible
+8,"Adverse Event",1,"Low vitamin B12 level","Vitamin B12 deficiency",2026-08-12,Mild,No,"Listed (expected)","Dose not changed","Not recovered / not resolved","Probable / Likely"
+8,"Adverse Event",2,"Hypoglycaemia episodes",Hypoglycaemia,2026-06-19,Moderate,No,"Listed (expected)","Dose not changed","Recovered / resolved",Possible
+9,"Adverse Event",1,"Itchy skin rash",Rash,2026-05-31,Moderate,No,"Listed (expected)","Drug interrupted","Recovered / resolved",Possible
+9,"Adverse Event",2,"Hair thinning",Alopecia,2026-08-13,Mild,No,"Unlisted (unexpected)","Dose not changed","Not recovered / not resolved",Unlikely
+10,"Adverse Event",1,Nausea,Nausea,2026-06-02,Mild,No,"Listed (expected)","Dose not changed","Recovered / resolved","Probable / Likely"
+10,"Adverse Event",2,"Lactic acidosis with dehydration","Lactic acidosis",2026-07-06,Severe,Yes,"Listed (expected)","Drug withdrawn","Recovered / resolved","Probable / Likely"
+11,"Adverse Event",1,"Stomach discomfort","Abdominal discomfort",2026-06-13,Mild,No,"Listed (expected)","Dose not changed",Unknown,Possible
