@@ -87,15 +87,15 @@ The sample dataset contains these three deliberate errors, so the rules have som
 
 | | |
 |---|---|
-| **Instruments list** (9 forms, repeating icons) | ![Instruments list](screenshots/01_instruments_list.png) |
-| **Adverse Event form** (PV fields) | ![Adverse Event form](screenshots/02_ae_form.png) |
-| **Branching logic: Serious = Yes** (criteria shown) | ![Branching logic shown](screenshots/03_branching_logic.png) |
-| **Branching logic: Serious = No** (criteria hidden) | ![Branching logic hidden](screenshots/03a_branching_logic_hidden.png) |
-| **Record Status Dashboard** (12 participants) | ![Record status dashboard](screenshots/04_record_dashboard.png) |
-| **Data quality rules and results** | ![Data quality rules](screenshots/05_data_quality_rules.png) |
-| **All Adverse Events report** (15 events) | ![All AE report](screenshots/06_report_all_ae.png) |
-| **Serious Adverse Events report** (2 events) | ![Serious AE report](screenshots/07_report_serious_ae.png) |
-| **Repeating instruments** (participant 10) | ![Repeating instruments](screenshots/08_repeating_instruments.png) |
+| **Instruments list** (9 forms, repeating icons) | ![Instruments list](screenshots/01_instruments_list.png.png) |
+| **Adverse Event form** (PV fields) | ![Adverse Event form](screenshots/02_ae_form.png.png) |
+| **Branching logic: Serious = Yes** (criteria shown) | ![Branching logic shown](screenshots/03_branching_logic.png.png) |
+| **Branching logic: Serious = No** (criteria hidden) | ![Branching logic hidden](screenshots/03a_branching_logic_hidden.png.png) |
+| **Record Status Dashboard** (12 participants) | ![Record status dashboard](screenshots/04_record_dashboard.png.png) |
+| **Data quality rules and results** | ![Data quality rules](screenshots/05_data_quality_rules.png.png) |
+| **All Adverse Events report** (15 events) | ![All AE report](screenshots/06_report_all_ae.png.png) |
+| **Serious Adverse Events report** (2 events) | ![Serious AE report](screenshots/07_report_serious_ae.png.png) |
+| **Repeating instruments** (participant 10) | ![Repeating instruments](screenshots/08_repeating_instruments.png.png) |
 
 ## 9. Repository contents
 
